@@ -1,4 +1,4 @@
-#求100之内的素数.
+#求100之内的素数:
 def exercise36():
     lower = int(input("输入区间最小值: "))
     upper = int(input("输入区间最大值: "))
